@@ -29,7 +29,7 @@ set hlsearch			"Highlights search results
 set tabstop=4			"Tab has 4 spaces size
 let mapleader = ' '
 colorscheme codedark
-hi search ctermbg=100
+hi search ctermbg=242
 
 " Plugin basics
 let g:deoplete#enable_at_startup = 1
